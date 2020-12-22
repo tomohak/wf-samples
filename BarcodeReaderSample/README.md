@@ -6,7 +6,7 @@ PCカメラを使ってバーコードを読み取るアプリのサンプルで
 
 |Platform|Version|
 | -------------------  | :------------------: |
-|.NET Framework|4.7.1|
+|.NET Framework|4.8|
 
 #### Framework
 
@@ -16,7 +16,7 @@ PCカメラを使ってバーコードを読み取るアプリのサンプルで
 
 #### セットアップ
 * [VisualStudio2019](https://visualstudio.microsoft.com/ja/downloads/)のインストール(インストーラーで「.NETデスクトップ開発」を選択)
-* [.NET Framework 4.7.1](https://dotnet.microsoft.com/download/dotnet-framework/net471)のインストール
+* [.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48)のインストール
 * プロジェクトファイルをクローンまたはダウンロードしてビルド
 
 #### アプリの機能
